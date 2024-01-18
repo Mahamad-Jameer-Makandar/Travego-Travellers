@@ -1,2 +1,6 @@
 # Travego-Travellers
-Implemented MySQL schema for Travego Travellers, recording diverse passenger data and travel prices. Proficient in SQL commands, the project enhances decision-making for travel planning and pricing strategies.
+Implementing a MySQL-based schema for Travego Travellers to meticulously record passenger data and travel prices between cities by bus (Sitting and Sleeper types). Proficiently utilizing various SQL commands, the project focuses on schema creation, data insertion, and insightful analysis, showcasing expertise in relational database management.
+
+The Travego schema comprises two pivotal tables, "Passenger" and "Price," meticulously designed to capture diverse passenger travel data. The "Passenger" table encapsulates details such as passenger name, gender, boarding, and destination cities, along with distance and bus type (Sitting/Sleeper). Simultaneously, the "Price" table houses critical information on bus type, distance, and the corresponding pricing structure. The SQL scripts not only insert sample data but also execute a spectrum of queries, addressing tasks ranging from identifying female passengers traveling a minimum of 600 KMs to calculating ticket prices based on specific travel criteria. This project underscores a practical application of SQL proficiency in managing relational databases, laying a solid foundation for effective decision-making in the dynamic travel domain.
+
+### Key skills: MySQL | DDL ,DML,DQL Commands | Joins.
